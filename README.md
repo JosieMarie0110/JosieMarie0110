@@ -97,5 +97,5 @@ I am particularly interested in how **AI can augment Customer Success teams**, i
 
 # Connect
 
-- LinkedIn: [*(add your link here)*](https://www.linkedin.com/in/josephinemgutierrez/)
+- LinkedIn:(https://www.linkedin.com/in/josephinemgutierrez/)
 - GitHub: https://github.com/JosieMarie0110
