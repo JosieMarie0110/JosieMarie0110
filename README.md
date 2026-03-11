@@ -89,9 +89,11 @@ A simplified simulation of SaaS customer health scoring models.
 
 # Background
 
-My career began in telecommunications and evolved into **technical roles in cybersecurity and SaaS platforms**, including experience supporting enterprise customers, managing technical relationships, and driving product adoption.
+My career started in telecommunications during the industry transition from voice networks to mobile data infrastructure. That early exposure to large-scale technology shifts led me into technical roles across cybersecurity, SaaS platforms, and enterprise infrastructure.
 
-I am particularly interested in how **AI can augment Customer Success teams**, improve customer communication, and streamline operational workflows.
+Over the past decade I’ve worked in SOC operations, technical account management, and enterprise customer success, supporting customers across security platforms, network observability, and cloud-native environments. My focus has always been on translating complex technical systems into clear operational outcomes for customers.
+
+Recently I’ve begun building projects that explore how AI can enhance technical customer-facing roles, particularly in areas like incident communication, customer signal analysis, and operational decision support for Customer Success teams.
 
 ---
 
