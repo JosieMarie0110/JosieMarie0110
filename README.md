@@ -18,16 +18,20 @@ My work focuses on the intersection of **Customer Success, AI, and technical ope
 
 # Projects
 
-## CSM Brain
-AI-powered knowledge assistant designed for Customer Success teams.
+## CS Brain
 
-**Capabilities**
-- Ingests Customer Success documentation, playbooks, and notes
-- Generates structured answers and recommended actions
-- Produces executive summaries and customer-ready messaging
+AI-powered knowledge assistant built to help Customer Success teams quickly interpret customer situations, surface relevant guidance, and generate clear, actionable communication.
 
-**Goal**
-Reduce time spent searching documentation and improve consistency in customer communication.
+### Capabilities
+
+- **Ingests Customer Success content** such as playbooks, internal documentation, escalation notes, and operational guidance.
+- **Interprets customer context** to generate structured answers, recommended actions, and next-step guidance.
+- **Creates executive-ready summaries** that translate technical details into concise business language.
+- **Supports customer communication** with clear, professional messaging aligned to Customer Success best practices.
+
+### Goal
+
+Reduce time spent searching across disconnected knowledge sources and improve the consistency, speed, and quality of Customer Success communication.
 
 ---
 
@@ -54,16 +58,6 @@ A tool that translates technical incidents into clear executive and customer upd
 
 **Goal**
 Improve alignment between engineering, customer success, and leadership during incidents.
-
----
-
-## 📈 Customer Health Score Simulator
-A simplified simulation of SaaS customer health scoring models.
-
-**Capabilities**
-- Models health scoring based on usage signals and engagement
-- Generates recommended intervention strategies
-- Demonstrates how CS teams can prioritize customer outreach
 
 ---
 
