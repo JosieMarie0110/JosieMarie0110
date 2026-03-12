@@ -36,28 +36,37 @@ Reduce time spent searching across disconnected knowledge sources and improve th
 ---
 
 ## Customer Signal Analyzer
-AI tool that analyzes customer emails and messages to identify intent, tone, and potential risk signals.
 
-**Capabilities**
-- Detects sentiment and resistance patterns
-- Surfaces potential churn or escalation signals
-- Suggests structured response strategies for Customer Success teams
+AI-powered analysis tool designed to help teams detect risk signals and hidden meaning in customer communications.
 
-**Use Case**
-Helping CSMs respond faster and more effectively to customer communications.
+### Capabilities
+
+- **Analyzes customer communication** including emails, support tickets, Slack messages, and escalation notes.
+- **Detects behavioral and sentiment signals** such as hesitation, avoidance, urgency, or frustration.
+- **Identifies potential customer risk indicators** including churn signals, adoption challenges, or misalignment.
+- **Generates structured insights** including risk summaries, possible root causes, and recommended response strategies.
+- **Supports strategic interpretation** by translating raw customer language into business and relationship signals.
+
+### Goal
+
+Help teams quickly interpret customer communication, detect early warning signs, and respond strategically before issues escalate.
 
 ---
+## Incident → Executive Summary Generator
 
-## Incident → Executive Communication Generator
-A tool that translates technical incidents into clear executive and customer updates.
+AI-powered tool that converts technical incident details into clear, executive-ready summaries for leadership communication.
 
-**Capabilities**
-- Converts technical incident reports into executive summaries
-- Generates customer-facing communication updates
-- Provides internal action summaries for CS and operations teams
+### Capabilities
 
-**Goal**
-Improve alignment between engineering, customer success, and leadership during incidents.
+- **Transforms technical incident data** including logs, troubleshooting notes, and engineering updates into structured summaries.
+- **Translates technical language into business context** highlighting impact, scope, and operational risk.
+- **Generates executive-ready briefings** suitable for leadership updates, customer reports, or incident reviews.
+- **Highlights key outcomes and next steps** including mitigation status, remediation actions, and follow-up recommendations.
+- **Supports incident communication workflows** by helping technical teams communicate clearly with non-technical stakeholders.
+
+### Goal
+
+Reduce the time engineers and Customer Success teams spend translating technical incidents into executive communication while improving clarity and consistency.
 
 ---
 
