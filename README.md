@@ -6,7 +6,6 @@ I am currently building **AI-powered tools and automation workflows** designed t
 
 My work focuses on the intersection of **Customer Success, AI, and technical operations**.
 
-https://www.josiemariegutierrez.com/
 
 ---
 
@@ -104,5 +103,6 @@ Recently I’ve begun building projects that explore how AI can enhance technica
 
 # Connect
 
-- LinkedIn:(https://www.linkedin.com/in/josephinemgutierrez/)
+- LinkedIn:https://www.linkedin.com/in/josephinemgutierrez/
+-  CV: https://www.josiemariegutierrez.com/
 - GitHub: https://github.com/JosieMarie0110
