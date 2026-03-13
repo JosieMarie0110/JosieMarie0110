@@ -6,6 +6,8 @@ I am currently building **AI-powered tools and automation workflows** designed t
 
 My work focuses on the intersection of **Customer Success, AI, and technical operations**.
 
+https://www.josiemariegutierrez.com/
+
 ---
 
 ## Current Focus
