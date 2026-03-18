@@ -4,7 +4,7 @@ Customer Success professional with 15+ years of experience across SaaS, cybersec
 
 I am currently building AI-powered tools and automation workflows designed to improve Customer Success operations, customer communication, and technical-to-business translation.
 
-My work focuses on the intersection of **Customer Success, AI, and technical operations**.
+My work focuses on the intersection of Customer Success, AI, and technical operations**.
 
 
 ---
