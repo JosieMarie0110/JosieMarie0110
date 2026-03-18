@@ -2,7 +2,7 @@
 
 Customer Success professional with 15+ years of experience across SaaS, cybersecurity, and cloud technologies, specializing in technical account management, customer adoption, and translating complex technical concepts into clear business value.
 
-I am currently building AI-powered tools and automation workflows** designed to improve Customer Success operations, customer communication, and technical-to-business translation.
+I am currently building AI-powered tools and automation workflows designed to improve Customer Success operations, customer communication, and technical-to-business translation.
 
 My work focuses on the intersection of **Customer Success, AI, and technical operations**.
 
@@ -13,7 +13,7 @@ My work focuses on the intersection of **Customer Success, AI, and technical ope
 
 - Applying AI and LLM tools to Customer Success workflows
 - Building practical tools that improve **customer communication, incident management, and knowledge retrieval
-- Expanding technical skills in **Python, AI tooling, and cloud infrastructure**
+- Expanding technical skills in Python, AI tooling, and cloud infrastructure**
 
 ---
 
@@ -44,7 +44,7 @@ AI-powered analysis tool designed to help teams detect risk signals and hidden m
 
 - Analyzes customer communication** including emails, support tickets, Slack messages, and escalation notes.
 - Detects behavioral and sentiment signals** such as hesitation, avoidance, urgency, or frustration.
-- *dentifies potential customer risk indicators** including churn signals, adoption challenges, or misalignment.
+- Identifies potential customer risk indicators** including churn signals, adoption challenges, or misalignment.
 - Generates structured insights** including risk summaries, possible root causes, and recommended response strategies.
 - Supports strategic interpretation** by translating raw customer language into business and relationship signals.
 
@@ -61,9 +61,9 @@ AI-powered tool that converts technical incident details into clear, executive-r
 
 - Transforms technical incident data** including logs, troubleshooting notes, and engineering updates into structured summaries.
 - Translates technical language into business context** highlighting impact, scope, and operational risk.
-- **Generates executive-ready briefings** suitable for leadership updates, customer reports, or incident reviews.
-- **Highlights key outcomes and next steps** including mitigation status, remediation actions, and follow-up recommendations.
-- **Supports incident communication workflows** by helping technical teams communicate clearly with non-technical stakeholders.
+- Generates executive-ready briefings** suitable for leadership updates, customer reports, or incident reviews.
+- Highlights key outcomes and next steps** including mitigation status, remediation actions, and follow-up recommendations.
+- Supports incident communication workflows** by helping technical teams communicate clearly with non-technical stakeholders.
 
 ### Goal
 
