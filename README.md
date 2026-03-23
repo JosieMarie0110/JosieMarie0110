@@ -21,14 +21,14 @@ My work focuses on the intersection of Customer Success, AI, and technical opera
 
 ## CS Brain
 
-AI-powered knowledge assistant built to help Customer Success teams quickly interpret customer situations, surface relevant guidance, and generate clear, actionable communication.
+AI-powered knowledge assistant designed to help Customer Success teams quickly interpret customer situations, surface relevant guidance, and generate clear, actionable communication.
 
 ### Capabilities
 
-- Ingests Customer Success content such as playbooks, internal documentation, escalation notes, and operational guidance.
-- Interprets customer context to generate structured answers, recommended actions, and next-step guidance.
-- Creates executive-ready summaries that translate technical details into concise business language.
-- Supports customer communication with clear, professional messaging aligned to Customer Success best practices.
+- Ingests Customer Success content such as playbooks, internal documentation, escalation notes, and operational guidance  
+- Interprets customer context to generate structured answers, recommended actions, and next-step guidance  
+- Creates executive-ready summaries that translate technical details into concise business language  
+- Supports customer communication with clear, professional messaging aligned to Customer Success best practices  
 
 ### Goal
 
@@ -42,32 +42,33 @@ AI-powered analysis tool designed to help teams detect risk signals and hidden m
 
 ### Capabilities
 
-- Analyzes customer communication including emails, support tickets, Slack messages, and escalation notes.
-- Detects behavioral and sentiment signals such as hesitation, avoidance, urgency, or frustration.
-- Identifies potential customer risk indicators including churn signals, adoption challenges, or misalignment.
-- Generates structured insights including risk summaries, possible root causes, and recommended response strategies.
-- Supports strategic interpretation by translating raw customer language into business and relationship signals.
+- Analyzes customer communication including emails, support tickets, Slack messages, and escalation notes  
+- Detects behavioral and sentiment signals such as hesitation, avoidance, urgency, or frustration  
+- Identifies potential customer risk indicators including churn signals, adoption challenges, or misalignment  
+- Generates structured insights including risk summaries, possible root causes, and recommended response strategies  
+- Translates raw customer language into actionable business and relationship signals  
 
 ### Goal
 
 Help teams quickly interpret customer communication, detect early warning signs, and respond strategically before issues escalate.
 
 ---
+
 ## Incident → Executive Summary Generator
 
 AI-powered tool that converts technical incident details into clear, executive-ready summaries for leadership communication.
 
 ### Capabilities
 
-- Transforms technical incident data including logs, troubleshooting notes, and engineering updates into structured summaries.
-- Translates technical language into business context highlighting impact, scope, and operational risk.
-- Generates executive-ready briefings suitable for leadership updates, customer reports, or incident reviews.
-- Highlights key outcomes and next steps including mitigation status, remediation actions, and follow-up recommendations.
-- Supports incident communication workflows by helping technical teams communicate clearly with non-technical stakeholders.
+- Transforms technical incident data including logs, troubleshooting notes, and engineering updates into structured summaries  
+- Translates technical language into business context, highlighting impact, scope, and operational risk  
+- Generates executive-ready briefings for leadership updates, customer reports, and incident reviews  
+- Highlights key outcomes and next steps including mitigation status, remediation actions, and follow-up recommendations  
+- Enables technical teams to communicate clearly with non-technical stakeholders  
 
 ### Goal
 
-Reduce the time engineers and Customer Success teams spend translating technical incidents into executive communication while improving clarity and consistency.
+Reduce the time spent translating technical incidents into executive communication while improving clarity, consistency, and decision-making.
 
 ---
 
