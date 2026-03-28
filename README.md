@@ -74,9 +74,4 @@ Over the past decade I’ve worked in SOC operations, technical account manageme
 
 Recently I’ve begun building projects that explore how AI can enhance technical customer-facing roles, particularly in areas like incident communication, customer signal analysis, and operational decision support for Customer Success teams.
 
----
-
-# Connect
-
-- LinkedIn:https://www.linkedin.com/in/josephinemgutierrez/
 
