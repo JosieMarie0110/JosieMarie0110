@@ -17,21 +17,13 @@ My work focuses on the intersection of Customer Success, AI, and technical opera
 
 ---
 
-# Projects
+# Repo includes: 
 
 ## CS Brain
 
-AI-powered knowledge assistant designed to help Customer Success teams quickly interpret customer situations, surface relevant guidance, and generate clear, actionable communication.
-
-### Capabilities
-
-- Ingests Customer Success content such as playbooks, internal documentation, escalation notes, and operational guidance  
-- Interprets customer context to generate structured answers, recommended actions, and next-step guidance  
-- Creates executive-ready summaries that translate technical details into concise business language  
-- Supports customer communication with clear, professional messaging aligned to Customer Success best practices  
+AI-powered knowledge assistant designed to help Customer Success teams quickly interpret customer situations, surface relevant guidance, and generate clear, actionable communication. 
 
 ### Goal
-
 Reduce time spent searching across disconnected knowledge sources and improve the consistency, speed, and quality of Customer Success communication.
 
 ---
@@ -40,16 +32,7 @@ Reduce time spent searching across disconnected knowledge sources and improve th
 
 AI-powered analysis tool designed to help teams detect risk signals and hidden meaning in customer communications.
 
-### Capabilities
-
-- Analyzes customer communication including emails, support tickets, Slack messages, and escalation notes  
-- Detects behavioral and sentiment signals such as hesitation, avoidance, urgency, or frustration  
-- Identifies potential customer risk indicators including churn signals, adoption challenges, or misalignment  
-- Generates structured insights including risk summaries, possible root causes, and recommended response strategies  
-- Translates raw customer language into actionable business and relationship signals  
-
 ### Goal
-
 Help teams quickly interpret customer communication, detect early warning signs, and respond strategically before issues escalate.
 
 ---
@@ -58,16 +41,7 @@ Help teams quickly interpret customer communication, detect early warning signs,
 
 AI-powered tool that converts technical incident details into clear, executive-ready summaries for leadership communication.
 
-### Capabilities
-
-- Transforms technical incident data including logs, troubleshooting notes, and engineering updates into structured summaries  
-- Translates technical language into business context, highlighting impact, scope, and operational risk  
-- Generates executive-ready briefings for leadership updates, customer reports, and incident reviews  
-- Highlights key outcomes and next steps including mitigation status, remediation actions, and follow-up recommendations  
-- Enables technical teams to communicate clearly with non-technical stakeholders  
-
 ### Goal
-
 Reduce the time spent translating technical incidents into executive communication while improving clarity, consistency, and decision-making.
 
 ---
@@ -105,4 +79,4 @@ Recently I’ve begun building projects that explore how AI can enhance technica
 # Connect
 
 - LinkedIn:https://www.linkedin.com/in/josephinemgutierrez/
-- CV: https://www.josiemariegutierrez.com/
+
