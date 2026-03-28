@@ -19,21 +19,19 @@ My work focuses on the intersection of Customer Success, AI, and technical opera
 
 # Repo includes: 
 
-## CS Brain
-
-AI-powered knowledge assistant designed to help Customer Success teams quickly interpret customer situations, surface relevant guidance, and generate clear, actionable communication. 
-
-### Goal
-Reduce time spent searching across disconnected knowledge sources and improve the consistency, speed, and quality of Customer Success communication.
-
----
-
 ## Customer Signal Analyzer
 
 AI-powered analysis tool designed to help teams detect risk signals and hidden meaning in customer communications.
 
 ### Goal
 Help teams quickly interpret customer communication, detect early warning signs, and respond strategically before issues escalate.
+
+## CS Brain
+
+AI-powered knowledge assistant designed to help Customer Success teams quickly interpret customer situations, surface relevant guidance, and generate clear, actionable communication. 
+
+### Goal
+Reduce time spent searching across disconnected knowledge sources and improve the consistency, speed, and quality of Customer Success communication.
 
 ---
 
