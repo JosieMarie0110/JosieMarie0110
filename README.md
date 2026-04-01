@@ -17,32 +17,6 @@ My work focuses on the intersection of Customer Success, AI, and technical opera
 
 ---
 
-# Repo includes: 
-
-## Customer Signal Analyzer
-
-AI-powered analysis tool designed to help teams detect risk signals and hidden meaning in customer communications.
-
-### Goal
-Help teams quickly interpret customer communication, detect early warning signs, and respond strategically before issues escalate.
-
-## CS Brain
-
-AI-powered knowledge assistant designed to help Customer Success teams quickly interpret customer situations, surface relevant guidance, and generate clear, actionable communication. 
-
-### Goal
-Reduce time spent searching across disconnected knowledge sources and improve the consistency, speed, and quality of Customer Success communication.
-
----
-
-## Incident → Executive Summary Generator
-
-AI-powered tool that converts technical incident details into clear, executive-ready summaries for leadership communication.
-
-### Goal
-Reduce the time spent translating technical incidents into executive communication while improving clarity, consistency, and decision-making.
-
----
 
 # Areas of Interest
 
