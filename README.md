@@ -1,5 +1,3 @@
-# Josephine Gutierrez
-
 ##  About Me
 
 Customer Success professional with 15+ years of experience across SaaS, cybersecurity, and cloud.
