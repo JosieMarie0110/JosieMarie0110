@@ -1,40 +1,53 @@
 # Josephine Gutierrez
 
-Customer Success professional with 15+ years of experience across SaaS, cybersecurity, and cloud technologies, specializing in technical account management, customer adoption, and translating complex technical concepts into clear business value.
+##  About Me
 
-I am currently building AI-powered tools and automation workflows designed to improve Customer Success operations, customer communication, and technical-to-business translation.
+Customer Success professional with 15+ years of experience across SaaS, cybersecurity, and cloud.
 
-My work focuses on the intersection of Customer Success, AI, and technical operations.
-
-
----
-
-## Current Focus
-
-- Applying AI and LLM tools to Customer Success workflows
-- Building practical tools that improve customer communication, incident management, and knowledge retrieval
-- Expanding technical skills in Python, AI tooling, and cloud infrastructure
+I specialize in:
+- Technical Account Management (TAM)
+- Driving customer adoption and retention
+- Translating complex technical concepts into clear business value
 
 ---
 
+## 🚀 What I’m Building
 
-# Areas of Interest
+I’m developing AI-powered tools and workflows to improve:
+- Customer Success operations
+- Customer communication
+- Technical-to-business translation
 
-- AI for Customer Success
-- Customer Success Operations
-- SaaS Adoption & Retention Strategy
-- Cybersecurity Platforms
-- Automation & Workflow Optimization
-- Technical-to-Business Communication
+My work sits at the intersection of:
+**Customer Success × AI × Technical Operations**
 
 ---
 
-# Currently Learning
+## 🎯 Current Focus
 
-- Python for AI tooling
-- Large Language Model applications
-- Cloud infrastructure concepts
-- AI-assisted workflow automation
+- Applying AI and LLMs to real Customer Success workflows  
+- Building tools for incident response, communication, and knowledge retrieval  
+- Strengthening technical depth in Python, AI tooling, and cloud environments  
+
+---
+
+## 🔍 Areas of Interest
+
+- Behavioral patterns in customer decision-making  
+- AI-driven augmentation of customer-facing roles  
+- Scalable Customer Success strategies  
+- Cybersecurity and threat-informed customer guidance  
+- Workflow automation and operational efficiency  
+
+---
+
+## 📚 Currently Learning
+
+- Python (AI-focused use cases)  
+- Large Language Model (LLM) applications  
+- Cloud infrastructure fundamentals  
+- AI-assisted workflow automation  
+
 
 ---
 
