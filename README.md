@@ -9,7 +9,7 @@ I specialize in:
 
 ---
 
-## 🚀 What I’m Building
+##  What I’m Building
 
 I’m developing AI-powered tools and workflows to improve:
 - Customer Success operations
@@ -21,7 +21,7 @@ My work sits at the intersection of:
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Applying AI and LLMs to real Customer Success workflows  
 - Building tools for incident response, communication, and knowledge retrieval  
@@ -29,7 +29,7 @@ My work sits at the intersection of:
 
 ---
 
-## 🔍 Areas of Interest
+##  Areas of Interest
 
 - Behavioral patterns in customer decision-making  
 - AI-driven augmentation of customer-facing roles  
