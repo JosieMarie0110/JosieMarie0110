@@ -25,7 +25,7 @@ My work sits at the intersection of:
 
 - Applying AI and LLMs to real Customer Success workflows  
 - Building tools for incident response, communication, and knowledge retrieval  
-- Strengthening technical depth in Python, AI tooling, and cloud environments  
+- Strengthening technical depth in Python, LLM, AI tooling, and cloud environments  
 
 ---
 
@@ -39,15 +39,7 @@ My work sits at the intersection of:
 
 ---
 
-## 📚 Currently Learning
 
-- Python (AI-focused use cases)  
-- Large Language Model (LLM) applications  
-- Cloud infrastructure fundamentals  
-- AI-assisted workflow automation  
-
-
----
 
 # Background
 
